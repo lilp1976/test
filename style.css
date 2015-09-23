@@ -1,0 +1,23 @@
+/* It's not the years honey, it's the mileage */
+
+.SP_Button_Wrap {
+    margin: 0 auto;
+    padding: 10% 1%;
+    text-align: center;
+    width: 50%;
+	max-width:500px;
+}
+
+
+.SP_Button_Wrap button {
+    background-color: red;
+    border: medium none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 2%;
+}
+
+
+
